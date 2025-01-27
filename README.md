@@ -10,3 +10,5 @@ public class SumOfArray {
         System.out.println("Sum of elements: " + sum);
     }
 }
+Output 
+Sum of elements: 75
